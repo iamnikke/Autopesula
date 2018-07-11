@@ -4,7 +4,7 @@ Project started: 10th of July 2018
 <br>
 Project finished: null
 <br>
-Description: Carwash-website project using MaterializeCSS framework, php and custom css. The goal is to make fully responsive, lightweight and stunning website template for all kinds of use.
+Description: Carwash-website project using MaterializeCSS framework, php and custom css. The goal is to make fully responsive, lightweight, user-friendly and stunning website template for all kinds of use.
 <br>
 <br>
 MaterializeCSS:
