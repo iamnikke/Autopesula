@@ -1,10 +1,11 @@
 # Autopesula
 
 Project started: 10th of July 2018
+<br>
 Project finished: null
-
+<br>
 Description: Carwash-website project using MaterializeCSS. The goal is to make fully responsive, lightweight and stunning website template for all kinds of use.
-
+<br>
 MaterializeCSS:
 https://materializecss.com/
 
