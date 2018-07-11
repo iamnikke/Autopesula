@@ -9,6 +9,9 @@ Description: Carwash-website project using MaterializeCSS framework, php and cus
 <br>
 MaterializeCSS:
 https://materializecss.com/
+<br>
+Live demo: (updated 11th of July 2018)
+http://nikkem.com/autopesula/
 
 <h3> TO DO </h3>
 - Language options, english and finnish primarily <br>
