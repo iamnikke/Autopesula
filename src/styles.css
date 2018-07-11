@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+
+a { margin-left: 10px; text-decoration: none; }
+a:hover { color: lightgrey; }
+
+nav {
+	background-color: #0066cc;
+	width: 100%;
+	margin: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+	#header img {
+		width: 100%;
+	}
+	#header {
+		height: 150px;
+	}
+}
+
+@media only screen and (min-width: 601px) {
+	#header {
+	height: 250px;
+	}
+}
+
+#header {
+	background-color: #FFF;
+	text-transform: uppercase;
+	color: #e3f2fd;
+	overflow: hidden;
+}
+
+.page-footer {
+	background-color: #fff;
+	color: black;
+}
+
+.footer-copyright {
+	background-color: #0066cc !important;
+}
